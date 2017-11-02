@@ -2,6 +2,6 @@
 Learning how to use GitHub
 
 Up to now, I learned:
-* reate a repos
+* create a repos
 * make a branch
 * edit a branch
