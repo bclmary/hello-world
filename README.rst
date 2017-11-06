@@ -16,4 +16,9 @@ The area of a circle is :math:`A_c = \frac{\pi}{4} d^2`.
 Header 2
 ========
 
-Poulpe
+Poulpes:
+
+* petit poulpe
+* `grand poulpe`_
+
+_`grand poulpe` https://en.wikipedia.org/wiki/Cthulhu
