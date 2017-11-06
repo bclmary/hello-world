@@ -30,7 +30,13 @@ Some python code bloc
 .. code:: python
 
   def my_fn(a):
-  return a**2
+   return a**2
+
+.. code-bloc:: python
+
+  def dummy(x):
+   return x+1
+
 
 Generic code bloc
 ::
