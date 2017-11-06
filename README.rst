@@ -28,6 +28,7 @@ Some quote
 Some python code bloc
 
 .. code:: python
+
   def my_fn(a):
   return a**2
 
