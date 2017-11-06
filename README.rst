@@ -26,9 +26,9 @@ Some quote
  my quote
 
 Some python code bloc
-:python:
- 
- def my_fn(a)
+
+.. code:: python
+  def my_fn(a):
   return a**2
 
 Generic code bloc
