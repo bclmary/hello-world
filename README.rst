@@ -2,6 +2,11 @@
  ReST Readme
 ###############
 
+
+:Date:    2017-11-06
+:Version: 1
+:Author:  BCL Mary
+
 Header 1
 ========
 
@@ -18,8 +23,8 @@ Header 2
 
 Poulpes:
 
-* petit poulpe
-* `grand poulpe`_
+* petit poulpe with ``inline code``
+* `grand poulpe`_ as an hyper-ref
 
 Some quote
  
