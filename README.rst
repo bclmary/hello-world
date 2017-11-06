@@ -32,7 +32,7 @@ Some python code bloc
   def my_fn(a):
    return a**2
 
-.. code-bloc:: python
+.. code-block:: python
 
   def dummy(x):
    return x+1
