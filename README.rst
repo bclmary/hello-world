@@ -25,11 +25,16 @@ Some quote
  
  my quote
 
-Some quode bloc
+Some python code bloc
 :python:
+ 
  def my_fn(a)
   return a**2
 
+Generic code bloc
+::
+ 
+ Some stuff
 
 
 .. _`grand poulpe`: https://en.wikipedia.org/wiki/Cthulhu
